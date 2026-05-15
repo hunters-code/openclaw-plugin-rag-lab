@@ -1,6 +1,6 @@
 {
   "name": "simple-task-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Plugin OpenClaw: daftar tugas sederhana in-memory (contoh multi-tool)",
   "type": "module",
   "main": "dist/index.js",
