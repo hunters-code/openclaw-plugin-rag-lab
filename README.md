@@ -15,5 +15,8 @@ Copy `env.example` to `.env` and fill in your keys. Optional `OPENCLAW_SIMPLE_TA
 
 ```bash
 npm install
+npm run build
 npx --yes tsc --noEmit
 ```
+
+`dist/` is committed so ClawHub source-linked installs match published `files[]` metadata.
