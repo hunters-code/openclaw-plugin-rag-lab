@@ -1,5 +1,5 @@
 {
-  "name": "openclaw-plugin-rag-lab",
+  "name": "simple-task-plugin",
   "version": "0.0.1",
   "description": "Plugin OpenClaw: daftar tugas sederhana in-memory (contoh multi-tool)",
   "type": "module",
