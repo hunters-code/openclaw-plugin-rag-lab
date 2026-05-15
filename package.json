@@ -1,6 +1,6 @@
 {
   "name": "openclaw-plugin-rag-lab",
-  "version": "0.1.6",
+  "version": "0.0.1",
   "description": "Plugin OpenClaw: daftar tugas sederhana in-memory (contoh multi-tool)",
   "type": "module",
   "main": "dist/index.js",
