@@ -9,7 +9,7 @@ OpenClaw plugin with in-memory task tools (`simple_task_add`, `simple_task_list`
 
 ## Environment
 
-See `.env.example`. Optional `OPENCLAW_SIMPLE_TASKS_MAX` caps how many tasks are kept (default 200, max 10000).
+Copy `env.example` to `.env` and fill in your keys. Optional `OPENCLAW_SIMPLE_TASKS_MAX` caps how many tasks are kept (default 200, max 10000).
 
 ## Setup
 
