@@ -1,6 +1,6 @@
 {
   "name": "simple-task-plugin",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Plugin OpenClaw: daftar tugas sederhana in-memory (contoh multi-tool)",
   "type": "module",
   "main": "dist/index.js",
@@ -25,7 +25,8 @@
   },
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "clawhub-install": "bash scripts/clawhub-install.sh"
   },
   "openclaw": {
     "extensions": [
